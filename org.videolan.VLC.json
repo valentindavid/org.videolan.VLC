@@ -610,7 +610,8 @@
       "config-opts": [
         "--disable-vcd-info",
         "--enable-cpp-progs",
-        "--disable-static"
+        "--disable-static",
+        "CDDA_PLAYER_LIBS=-ltinfo"
       ],
       "sources": [
         {

@@ -792,7 +792,7 @@
     },
     {
       "name": "libcaca",
-      "config-opts": ["--disable-static", "--disable-python"],
+      "config-opts": ["--disable-static", "--disable-python", "--disable-ruby"],
       "sources": [
         {
           "type": "archive",
